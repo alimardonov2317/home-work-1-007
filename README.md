@@ -1,0 +1,1 @@
+Ushbu loyihada Facebook login form va cardlar html va css yordamida yozilgan.
